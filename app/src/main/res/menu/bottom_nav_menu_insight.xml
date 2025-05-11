@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_cashflow"
+        android:title="Cashflow"
+        android:icon="@drawable/cashflow_ic"/>
+    <item
+        android:id="@+id/nav_progression"
+        android:title="Progression"
+        android:icon="@drawable/progression_ic"/>
+
+</menu>
